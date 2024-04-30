@@ -21,13 +21,7 @@
         "permalink": "bootstrap",
         "order": "4",
         "tags": "bootstrap"
-    },
-    {
-        "title": "Tailwind",
-        "permalink": "tailwindcss",
-        "order": 5,
-        "tags": "tailwind"
-    },
+    },   
     {
         "title": "NodeJS",
         "permalink": "nodejs",
@@ -39,25 +33,13 @@
         "permalink": "angular",
         "order": 7,
         "tags": "angular"
-    },
-    {
-        "title": "React",
-        "permalink": "react",
-        "order": 8,
-        "tags": "react"
-    },
+    },   
     {
         "title": "Next.js",
         "permalink": "nextjs",
         "order": 9,
         "tags": "nextjs"
-    },
-    {
-        "title": "Webflow",
-        "permalink": "webflow",
-        "order": 10,
-        "tags": "webflow"
-    },
+    },   
     {
         "title": "Figma",
         "permalink": "figma",
