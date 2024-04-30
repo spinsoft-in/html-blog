@@ -1,0 +1,67 @@
+[
+    {
+        "title": "HTML",
+        "permalink": "html",
+        "order": 1,
+        "tags": "html"
+    },
+    {
+        "title": "JavaScript",
+        "permalink": "javascript",
+        "order": 2
+    },
+    {
+        "title": "CSS",
+        "permalink": "css",
+        "order": 3,
+        "tags": "css"
+    },
+    {
+        "title": "Bootstrap",
+        "permalink": "bootstrap",
+        "order": "4",
+        "tags": "bootstrap"
+    },
+    {
+        "title": "Tailwind",
+        "permalink": "tailwindcss",
+        "order": 5,
+        "tags": "tailwind"
+    },
+    {
+        "title": "NodeJS",
+        "permalink": "nodejs",
+        "order": 6,
+        "tags": "nodejs"
+    },
+    {
+        "title": "Angular",
+        "permalink": "angular",
+        "order": 7,
+        "tags": "angular"
+    },
+    {
+        "title": "React",
+        "permalink": "react",
+        "order": 8,
+        "tags": "react"
+    },
+    {
+        "title": "Next.js",
+        "permalink": "nextjs",
+        "order": 9,
+        "tags": "nextjs"
+    },
+    {
+        "title": "Webflow",
+        "permalink": "webflow",
+        "order": 10,
+        "tags": "webflow"
+    },
+    {
+        "title": "Figma",
+        "permalink": "figma",
+        "order": 11,
+        "tags": "figma"
+    }
+]
